@@ -1,4 +1,4 @@
-# DNA GC Content Calculator
+# DNA GC Content Calculator - https://dna-gc-content-calculator.streamlit.app/  (For password please contact)
 
 A Streamlit-powered web application for calculating nucleotide composition (A, T, G, C) and GC content percentage of DNA sequences. This tool supports batch input, file uploads (CSV/FASTA), result export to Excel, and includes sequence validation with visual feedback.
 
@@ -32,4 +32,4 @@ streamlit run app.py
 For inquiries or collaborations, reach out at:
 Shubh Rakesh Nahar
 Email: shubhrakeshnahar@gmail.com
-LinkedIn: Shubh Nahar
+LinkedIn: [Shubh Nahar](https://www.linkedin.com/in/shubh-nahar-2b4254181/)
