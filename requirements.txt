@@ -1,0 +1,8 @@
+streamlit==1.32.0
+pandas==2.2.0
+matplotlib==3.8.2
+biopython==1.83
+plotly==5.18.0
+seaborn==0.13.2
+numpy==1.26.3
+openpyxl==3.1.2
